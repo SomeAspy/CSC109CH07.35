@@ -1,11 +1,16 @@
 {
     "cSpell.words": [
-        "hloi",
+        "ARTISTH",
+        "ARTWORKH",
+        "hloi"
     ],
     "files.associations": {
+        "*.html": "html",
         "new": "cpp",
         "iosfwd": "cpp",
-        "sstream": "cpp"
+        "sstream": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp"
     },
     "files.insertFinalNewline": true // Needed for webcat
 }
